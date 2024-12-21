@@ -64,11 +64,3 @@ Through interactive visualizations, the dashboard identifies key spending patter
 # Report Snapshot (Interactive Dashboard)
 
 ![image](https://github.com/user-attachments/assets/b2c1a966-87b1-4278-98d4-57fcccd70878)
-
-### Recommendations:
-
-- **Improve Budgeting**: Focus on reducing expenses in Groceries and Travel, two of the highest spending categories.
-- **Analyze Spending Trends**: Investigate the reasons behind high spending in December and make adjustments for future years.
-- **Increase Savings**: Encourage savings during months of lower spending and try to maintain a stable saving rate.
-- **Track Expenses by Category**: Regularly monitor the "unassigned" transactions and make sure all categories are properly tracked.
-
