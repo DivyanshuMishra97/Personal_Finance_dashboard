@@ -9,7 +9,7 @@ Through interactive visualizations, the dashboard identifies key spending patter
 ### Steps followed
 
 - **Step 1**: Data Collection:
-    - Connected to a CSV file or Google Sheets containing transaction data and loaded it into a pandas DataFrame.
+    - Connected to Google Sheets containing transaction data and loaded it into a pandas DataFrame.
 
 - **Step 2**: Data Cleaning:
     - Selected relevant columns and cleaned the data by converting descriptions to lowercase and filtering the necessary details.
