@@ -44,71 +44,27 @@ Through interactive visualizations, the dashboard identifies key spending patter
 - **Step 6**: Published Dashboard:
     - The dashboard was published using the `Panel` template for easy accessibility. Users can now view their personal finance summary with dynamic, real-time updates.
 
-# Insights
+# Features
 
 ### [1] Total Expenses and Savings
 
-   - **Total Expenses**: ₹34,500
-   - **Total Savings**: ₹5,200
-
-- **Insight**: Significant portions of the total expenses are spent on Groceries, Travel, and Restaurants, while savings are higher than the average for similar income levels.
-
-![1](https://github.com/user-attachments/assets/d2c12dd6-3032-46e8-962d-1e4bf2505b9f)
+![image](https://github.com/user-attachments/assets/c7dbfa42-8856-4add-af49-f872cd4afa11)
 
 ### [2] Spending by Category
 
-   - **Top Spending Categories**:
-     - Groceries: ₹15,000 (43.48%)
-     - Travel: ₹8,000 (23.19%)
-     - Restaurants: ₹5,500 (15.94%)
-
-   - **Insight**: Groceries and Travel account for a significant portion of the total expenses, suggesting room for improvement in budgeting for these categories.
-
-![2](https://github.com/user-attachments/assets/d4e11b30-0805-4406-8225-15503166aaec)
+![image](https://github.com/user-attachments/assets/731a7a24-6b8a-4df6-8684-7f281d8346cc)
 
 ### [3] Monthly Expense Trends
 
-   - **Trend Overview**:
-     - Peak Spending Period: December, with total expenses reaching ₹10,000.
-     - Lowest Spending Period: February, with total expenses of ₹4,500.
-
-- **Insight**: The monthly expense trends suggest that spending tends to increase during the holiday season (December), potentially due to increased travel and shopping.
-
-![3](https://github.com/user-attachments/assets/fdd18929-2082-45bc-8a7a-71b0a18bddf6)
+![image](https://github.com/user-attachments/assets/e01f0733-1f57-4dcd-ace6-7dfc549489dd)
 
 ### [4] Top Categories by Spending
 
-   - **Top Categories**:
-     - Groceries: ₹15,000
-     - Travel: ₹8,000
-     - Restaurants: ₹5,500
-
-- **Insight**: Groceries and Travel are the most significant spending categories, which suggests the need for better budget allocation in these areas.
-
-![4](https://github.com/user-attachments/assets/fe058def-1e6d-4bf0-8166-aade25a646c2)
-
-### [5] Transaction Breakdown
-
-   - **Transaction Types**:
-     - **Credit Transactions**: ₹20,000 (58%)
-     - **Debit Transactions**: ₹14,500 (42%)
-
-- **Insight**: Credit transactions make up a significant portion of the total spending, which could indicate reliance on credit for everyday expenses.
-
-![5](https://github.com/user-attachments/assets/58557fa5-a5e3-4398-8e2c-bf0cde11351f)
-
-### [6] Other Insights
-
-- **Total Spending by Category**:
-    - Groceries, Travel, and Restaurants contribute the most to total spending.
-    - Focus should be on optimizing these areas to improve savings.
-  
-- **Monthly Saving Rate**:
-    - Monthly savings rate is stable, but there is room for improvement, especially during months with higher expenses (such as December).
+ ![image](https://github.com/user-attachments/assets/5ce0ab9a-30a1-4d07-a19b-a112be9675f6)
 
 # Report Snapshot (Interactive Dashboard)
 
-![Screenshot 2024-12-13 163709](https://github.com/user-attachments/assets/aeab5037-d36d-465c-9039-e27543a916c5)
+![image](https://github.com/user-attachments/assets/b2c1a966-87b1-4278-98d4-57fcccd70878)
 
 ### Recommendations:
 
